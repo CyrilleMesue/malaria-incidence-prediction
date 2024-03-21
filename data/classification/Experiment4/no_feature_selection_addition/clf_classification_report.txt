@@ -1,0 +1,8 @@
+                precision    recall  f1-score   support
+
+high incidence       1.00      0.98      0.99       218
+ low incidence       0.98      1.00      0.99       196
+
+      accuracy                           0.99       414
+     macro avg       0.99      0.99      0.99       414
+  weighted avg       0.99      0.99      0.99       414

@@ -1,0 +1,8 @@
+[
+  "num_pipeline__precipitation",
+  "num_pipeline__AvMeanSurAirTemp",
+  "num_pipeline__AvMaxSurAirTemp",
+  "num_pipeline__AvMinSurAirTemp",
+  "num_pipeline__longitude",
+  "num_pipeline__latitude"
+]

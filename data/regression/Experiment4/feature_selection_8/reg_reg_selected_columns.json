@@ -1,0 +1,10 @@
+[
+  "num_pipeline__AvMaxSurAirTemp",
+  "num_pipeline__AvMeanSurAirTemp_mul_AvMeanSurAirTemp",
+  "num_pipeline__AvMaxSurAirTemp_mul_AvMeanSurAirTemp",
+  "num_pipeline__AvMeanSurAirTemp_mul_AvMaxSurAirTemp",
+  "num_pipeline__AvMaxSurAirTemp_mul_AvMaxSurAirTemp",
+  "num_pipeline__AvMinSurAirTemp_mul_AvMaxSurAirTemp",
+  "num_pipeline__AvMaxSurAirTemp_mul_AvMinSurAirTemp",
+  "num_pipeline__latitude_mul_latitude"
+]
